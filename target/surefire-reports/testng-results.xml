@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="example suite 1" duration-ms="84" started-at="2019-11-18T17:59:39Z" finished-at="2019-11-18T17:59:39Z">
+    <groups>
+    </groups>
+    <test name="Regression suite" duration-ms="84" started-at="2019-11-18T17:59:39Z" finished-at="2019-11-18T17:59:39Z">
+      <class name="com.qa.test.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.test.DemoTest@566776ad]" name="div" duration-ms="16" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.test.DemoTest@566776ad]" name="sub" duration-ms="4" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.test.DemoTest@566776ad]" name="mul" duration-ms="0" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.test.DemoTest@566776ad]" name="sum" duration-ms="4" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+      </class> <!-- com.qa.test.DemoTest -->
+      <class name="com.qa.test.DemoTest2">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.test.DemoTest2@6bf256fa]" name="div" duration-ms="0" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.test.DemoTest2@6bf256fa]" name="mul" duration-ms="4" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.test.DemoTest2@6bf256fa]" name="sum" duration-ms="0" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.test.DemoTest2@6bf256fa]" name="sub" duration-ms="0" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.test.DemoTest2 -->
+      <class name="com.qa.test.DemoTest3">
+        <test-method status="PASS" signature="div()[pri:0, instance:com.qa.test.DemoTest3@6cd8737]" name="div" duration-ms="0" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:com.qa.test.DemoTest3@6cd8737]" name="mul" duration-ms="0" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:com.qa.test.DemoTest3@6cd8737]" name="sum" duration-ms="0" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:com.qa.test.DemoTest3@6cd8737]" name="sub" duration-ms="0" started-at="2019-11-18T23:29:39Z" finished-at="2019-11-18T23:29:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+      </class> <!-- com.qa.test.DemoTest3 -->
+    </test> <!-- Regression suite -->
+  </suite> <!-- example suite 1 -->
+</testng-results>
